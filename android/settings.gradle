@@ -1,0 +1,3 @@
+rootProject.name = 'reunion_2020_4535'
+
+include ':app'
